@@ -1,0 +1,21 @@
+# Dependencies
+node_modules
+
+# Personal local test CSVs
+test_data/
+
+# Build outputs
+dist
+dist-ssr
+*.local
+*.tsbuildinfo
+
+# Editor & OS
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
